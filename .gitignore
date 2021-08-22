@@ -32,5 +32,6 @@
 *.app
 
 # Other files
-
 doNotTrack.cpp
+testing.cpp
+tempCodeRunnerFile.cpp
